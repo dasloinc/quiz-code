@@ -1,0 +1,11 @@
+
+body {
+    padding: 10px;
+    margin: 20px;
+    color: azure;
+}
+
+.container,#container {
+    margin-bottom: 50px;
+    padding: 10px;
+}
